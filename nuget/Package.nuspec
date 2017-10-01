@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SDP</id>
+    <version>1.0.0</version>
+    <authors>Mushtaq</authors>
+    <owners>Mushtaq</owners>
+    <licenseUrl>https://bitbucket.org/mushtaq_m_a/sdp-android-binding</licenseUrl>
+    <projectUrl>https://bitbucket.org/mushtaq_m_a/sdp-android-binding</projectUrl>
+    <iconUrl>https://lh6.googleusercontent.com/-oiaSPM2Rgsc/AAAAAAAAAAI/AAAAAAAADuI/6zIBP5tfQak/photo.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin Android Binding for Scalable dp</description>
+    <releaseNotes>Xamarin Android Binding for Scalable dp</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+	<files>
+		<file src="Scalable-DP\bin\Release\Scalable-DP.dll" target="lib\Scalable-DP.dll"/>
+	</files>
+</package>

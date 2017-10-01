@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scalable-DP", "Scalable-DP\Scalable-DP.csproj", "{20E6BADD-4789-477E-839A-22F50D43B0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scalable-DP-Sample", "Scalable-DP-Sample\Scalable-DP-Sample.csproj", "{CF5DEEBE-1FC4-4A32-B068-0DC65B879F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E6BADD-4789-477E-839A-22F50D43B0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E6BADD-4789-477E-839A-22F50D43B0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E6BADD-4789-477E-839A-22F50D43B0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E6BADD-4789-477E-839A-22F50D43B0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5DEEBE-1FC4-4A32-B068-0DC65B879F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5DEEBE-1FC4-4A32-B068-0DC65B879F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5DEEBE-1FC4-4A32-B068-0DC65B879F1B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CF5DEEBE-1FC4-4A32-B068-0DC65B879F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5DEEBE-1FC4-4A32-B068-0DC65B879F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5DEEBE-1FC4-4A32-B068-0DC65B879F1B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
