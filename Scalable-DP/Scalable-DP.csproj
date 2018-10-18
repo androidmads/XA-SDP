@@ -12,8 +12,7 @@
     <RootNamespace>Scalable_DP</RootNamespace>
     <AssemblyName>Scalable-DP</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidCodegenTarget>XamarinAndroid</AndroidCodegenTarget>
     <AndroidClassParser>jar2xml</AndroidClassParser>
   </PropertyGroup>
